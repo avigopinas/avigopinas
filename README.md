@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @avigopinas
-- 👀 I’m interested in 
+- 👀 I’m interested in java,sping,angular,react.
 - 🌱 I’m currently learning microservices,spring security,react.
 - 💞️ I’m looking to collaborate on full stack devlopment.
 - 📫 How to reach me ...avinash.gupta14jan@gmail.com
